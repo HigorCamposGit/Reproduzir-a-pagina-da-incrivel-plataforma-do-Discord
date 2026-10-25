@@ -39,7 +39,7 @@ Em vez de imagens estáticas, foram aplicadas **técnicas puras de desenvolvimen
 
 ## 🎓 Desenvolvimento.
 
-* Projetado e desenvolvido por **Higor Campos**.
+* Projetado e desenvolvido por **Higor de Campos**.
 * Projeto desenvolvido para o desafio da **Formação CSS Web Developer** na [DIO](https://www.dio.me).
 
 ---
