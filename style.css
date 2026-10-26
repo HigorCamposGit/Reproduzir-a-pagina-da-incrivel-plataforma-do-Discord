@@ -1,4 +1,4 @@
-/* reset básico */
+/* reset */
 * {
   margin: 0;
   padding: 0;
@@ -44,7 +44,7 @@ body {
   border-radius: 12px;
 }
 
-/* menu links & dropdowns */
+/* menu links e dropdowns */
 .nav-links {
   display: flex;
   gap: 20px;
@@ -138,7 +138,7 @@ body {
   cursor: pointer;
 }
 
-/* hero section */
+/* section */
 .hero-section {
   background-color: #404eed;
   color: #fff;
@@ -253,7 +253,7 @@ body {
   color: #23272a;
 }
 
-/* terceira seção (largura total) */
+/* terceira seção - largura total */
 .full-width-section {
   background-color: #23272a;
   color: #fff;
@@ -373,7 +373,7 @@ body {
   text-decoration: underline;
 }
 
-/* responsividade (media query) */
+/* responsividade - media query */
 @media (max-width: 992px) {
   .nav-links {
     display: none; /* esconde o menu inicialmente */
